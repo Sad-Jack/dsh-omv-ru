@@ -1,0 +1,1 @@
+{"version":3,"file":"flow-canvas.d.ts","sourceRoot":"","sources":["../../../src/client/flow-canvas.tsx"],"names":[],"mappings":"AAEA,OAAO,KAAK,EAAE,aAAa,EAAqB,MAAM,iBAAiB,CAAA;AA+DvE,wBAAgB,kBAAkB,CAAC,EAAE,KAAK,EAAE,UAAU,EAAE,EAAE;IAAE,KAAK,EAAE,aAAa,CAAC;IAAC,UAAU,CAAC,EAAE,CAAC,IAAI,EAAE,MAAM,KAAK,IAAI,CAAA;CAAE,+BA0GtH"}

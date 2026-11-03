@@ -1,0 +1,10 @@
+{
+  "repository": "Sad-Jack/dsh-omv-ru",
+  "package": "dsh-omv",
+  "version": "1.0.7-local.1.ru.3",
+  "upstream": "https://github.com/bx33661/dsh-omv",
+  "upstreamVersion": "1.0.7-local.1",
+  "license": "MIT",
+  "snapshotType": "localized-runtime-package",
+  "originalRepositoryMetadata": null
+}

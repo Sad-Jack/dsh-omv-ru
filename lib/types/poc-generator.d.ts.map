@@ -1,0 +1,1 @@
+{"version":3,"file":"poc-generator.d.ts","sourceRoot":"","sources":["../../src/poc-generator.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,WAAW,CAAA;AAC9C,OAAO,KAAK,EAAE,oBAAoB,EAAe,MAAM,gBAAgB,CAAA;AA8EvE,wBAAgB,0BAA0B,CAAC,KAAK,EAAE;IAChD,MAAM,EAAE,aAAa,CAAA;IACrB,QAAQ,EAAE,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,CAAA;CAClC,GAAG,oBAAoB,CAqCvB"}
